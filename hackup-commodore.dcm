@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP C64-CassettePort
+D Board edge connector for the Cassette Port of the Commodore 64 computer.
+K C64 cassete-port Commodore Datasette
+F ~
+$ENDCMP
+#
 $CMP C64-UserPort
 D Board edge connector for the User Port of the Commodore 64 computer.
 K C64 Userport User-Port Commodore

@@ -7,7 +7,7 @@ A small collection of symbols and footprints for [KiCAD](http://kicad-pcb.org/).
 The repo currently contains symbols and footprints for the these Components:
 
 * Commodore 64 User Port
-
+* Commodore 64 Cassete Port
 
 
 
