@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C64-UserPort
+D Board edge connector for the User Port of the Commodore 64 computer.
+K C64 Userport User-Port Commodore
+F ~
+$ENDCMP
+#
+#End Doc Library
