@@ -6,10 +6,22 @@ K C64 cassete-port Commodore Datasette
 F ~
 $ENDCMP
 #
+$CMP C64-Exp-Port
+D Board edge connector for the expansion port of the Commodore 64/128 computers.
+K C64, C128, Commodore, expansion port, cartrdige
+F https://www.c64-wiki.com/wiki/Expansion_Port
+$ENDCMP
+#
 $CMP C64-UserPort
 D Board edge connector for the User Port of the Commodore 64 computer.
 K C64 Userport User-Port Commodore
 F ~
+$ENDCMP
+#
+$CMP VC20-Exp-Port
+D Board edge connector for the expansion port of the Commodore VIC-20 computer.
+K VC-20, VIC-20, Commodore, Cartridge
+F https://www.c64-wiki.com/wiki/Expansion_port_VIC20
 $ENDCMP
 #
 #End Doc Library
