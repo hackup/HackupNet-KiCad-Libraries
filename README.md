@@ -8,7 +8,8 @@ The repo currently contains symbols and footprints for the these Components:
 
 * Commodore 64 User Port
 * Commodore 64 Cassette Port
-
+* Commodore 64 Expansion Port
+* Commodore VIC20 Expansion Port
 
 
 ## License
