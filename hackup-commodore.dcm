@@ -18,6 +18,12 @@ K C64 Userport User-Port Commodore
 F ~
 $ENDCMP
 #
+$CMP C64-UserPort-Sym
+D Board edge connector for the User Port of the Commodore 64 computer.
+K C64 Userport User-Port Commodore
+F ~
+$ENDCMP
+#
 $CMP VC20-Exp-Port
 D Board edge connector for the expansion port of the Commodore VIC-20 computer.
 K VC-20, VIC-20, Commodore, Cartridge
